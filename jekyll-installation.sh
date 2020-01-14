@@ -22,3 +22,8 @@ gem list
 gem install bundler
 
 reboot
+
+# cd/directory-with-your-files
+bundle install
+
+# May need to enter the root password twice for sudo operations requiring privilege escalation
