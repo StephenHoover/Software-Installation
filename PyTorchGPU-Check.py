@@ -1,6 +1,9 @@
 import numpy as np
 import torch
 
+# Choose Hardware
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 dev_num = torch.cuda.current_device()
 print(torch.cuda.device(dev_num))
 
