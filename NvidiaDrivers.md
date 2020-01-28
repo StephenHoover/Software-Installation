@@ -1,4 +1,4 @@
-# To check if Cuda is available and to check what version is running
+# Check if CUDA is available and/or check CUDA version number
 ## Run the following command in terminal
 
     nvidia-smi
