@@ -1,4 +1,4 @@
-# To Check if Cuda is available and what version is running before installing PyTorch
+# To check if Cuda is available and to check what version is running
 ## Run the following command in terminal
 
     nvidia-smi
