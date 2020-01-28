@@ -4,7 +4,7 @@
     nvidia-smi
 
 
-## Output: check CUDA version
+## Output
 
 <pre><font color="#4E9A06"><b>[stephen@MPCR-Stephen</b></font><font color="#D3D7CF"><b> MultiArmBandits</b></font><font color="#4E9A06"><b>]$</b></font> nvidia-smi
 Tue Jan 28 08:37:06 2020       
