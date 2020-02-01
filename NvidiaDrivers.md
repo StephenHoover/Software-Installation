@@ -2,13 +2,12 @@
 ## Run the following command in terminal
 
     sudo mhwd -a pci nonfree 0300
+    sudo reboot
 
 # Check if CUDA is available and/or check CUDA version number
 ## Run the following command in terminal
 
     nvidia-smi
-    sudo reboot
-
 
 ## Output
 
