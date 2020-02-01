@@ -7,6 +7,7 @@
 ## Run the following command in terminal
 
     nvidia-smi
+    sudo reboot
 
 
 ## Output
