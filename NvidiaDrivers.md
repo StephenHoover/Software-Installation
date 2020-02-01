@@ -1,3 +1,8 @@
+# Install Nvidia Drivers
+## Run the following command in terminal
+
+    sudo mhwd -a pci nonfree 0300
+
 # Check if CUDA is available and/or check CUDA version number
 ## Run the following command in terminal
 
