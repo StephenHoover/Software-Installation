@@ -1,4 +1,4 @@
-# Install Nvidia Drivers
+# Install Nvidia Drivers with CUDA on Manjaro Linux
 ## Run the following command in terminal
 
     sudo mhwd -a pci nonfree 0300
